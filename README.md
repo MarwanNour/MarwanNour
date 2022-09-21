@@ -1,25 +1,13 @@
-# Hi 👋. Welcome to my GitHub profile!
+#### &#x1f4c8; My GitHub Stats
 
-<!--
-**MarwanNour/MarwanNour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarwanNour&show_icons=true&line_height=33&count_private=true&theme=dark" alt="MarwanNour's GitHub Stats" href=""/>
+</a>
 
-Here are some ideas to get you started:
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanNour&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I’m currently learning malware analysis and forensics
-- 👯 I’m looking to collaborate on DFIR and Threat Intelligence projects
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanNour&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanNour&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+-->
