@@ -1,13 +1,21 @@
-#### &#x1f4c8; My GitHub Stats
 
-<a href="" >
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarwanNour&show_icons=true&line_height=33&count_private=true&theme=dark" alt="MarwanNour's GitHub Stats" href=""/>
-</a>
 
-<a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanNour&hide=cmake&langs_count=4&line_height=35&theme=dark" />
-</a>  
+## About me
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanNour&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
--->
+Cybersecurity engineer with experience in Threat detection, Cloud-Native security and Fuzzing research.
+
+## Education
+
+- MScT in Cybersecurity - École Polytechnique
+- BS in Computer Science - American University of Beirut
+
+## Publications
+
+- *Blog post*, [Cyber Blog](https://marwannour.github.io/Cyber-Blog/)
+- *2023 ACM TOSEM*, [Fine-grained Coverage-based Fuzzing](https://dl.acm.org/doi/10.1145/3587158)
+
+
+## Certifications
+
+- [GIAC Cyber Threat Intelligence (GCTI)](https://www.credly.com/badges/5e1228df-25ab-4bdf-b457-c20cbfdd8fef/public_url)
+- [GIAC Reverse Engineering Malware (GREM)](https://www.credly.com/badges/1dea8c01-a2cc-4968-8f2e-415610a7d90e/public_url)
